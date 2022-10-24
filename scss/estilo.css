@@ -1,0 +1,19 @@
+body {
+  background-color: #aaaaaa;
+  color: #444444;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul {
+  background-color: blue;
+  padding: 20px;
+}
+ul li {
+  background-color: #aaaaaa;
+}
+ul li:hover {
+  font-size: 40px;
+}/*# sourceMappingURL=estilo.css.map */
