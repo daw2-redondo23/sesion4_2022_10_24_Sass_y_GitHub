@@ -1,0 +1,19 @@
+{
+  "name": "sesion4_2022_10_24_sass_y_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daw2-redondo23/sesion4_2022_10_24_Sass_y_GitHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daw2-redondo23/sesion4_2022_10_24_Sass_y_GitHub/issues"
+  },
+  "homepage": "https://github.com/daw2-redondo23/sesion4_2022_10_24_Sass_y_GitHub#readme"
+}
